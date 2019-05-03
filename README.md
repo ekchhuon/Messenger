@@ -15,7 +15,6 @@ This is a native iOS Messenger app, with audio/video calls and realtime chat con
 #### These features are only available as a custom development.
 
 - Group chat
-- Parse backend (using Parse Live Query)
 
 ## [PREMIUM FEATURES](http://relatedcode.com/premium)
 #### You can purchase the Premium version [here](http://relatedcode.com/premium).
